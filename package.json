@@ -1,0 +1,8 @@
+{
+  "name": "nuxt3_sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kodaitakahashi/nuxt3_sandbox.git",
+  "author": "kodaitakahashi <kodaitakahashi.kt@gmail.com>",
+  "license": "MIT"
+}
